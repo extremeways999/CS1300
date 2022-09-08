@@ -1,2 +1,2 @@
-# CS1300
-All Computer Science Projects done in CS1300 
+# CS140
+All Computer Science Projects done in CS1400 
